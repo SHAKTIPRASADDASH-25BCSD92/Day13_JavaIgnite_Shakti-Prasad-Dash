@@ -19,7 +19,7 @@ Use synchronization concept (important idea: avoid race condition)
 Each thread modifies same data
 Control access carefully
 */
-package JAVA_DAY_13;
+
 import java.util.Random;
 
 class BankAccount {
